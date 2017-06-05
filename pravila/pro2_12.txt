@@ -1,0 +1,28 @@
+{3399FF}Районы штата:{BCBCBC}
+Район Grove: Ganton;
+Район Ballas: Glen-Park;
+Район Aztec: Idlewood;
+Район Rifa: Seville;
+Район Vagos: Las-Flores;
+Пляж у Vagos East Beach;
+Район Ж/Д вокзала Лос-Сантос: El Corona;
+Район у стоянки автомехаников Лос-Сантос: Downtown;
+Отель в гетто: Jefferson;
+Район вайн вуд: Vine Wood;
+Район у казино: Temple.
+Район у пляжа Los-Santos: Santa Maria
+Центральный район Los-Santos: Marina
+
+{3399FF}Города и деревни штата:{BCBCBC}
+Los-Santos
+San-Fierro
+Las-Venturas
+Palomino Creek
+Angel Pine
+Montgomery
+Blueberry
+Tierra Robada
+El Quebrados
+Las-Barrancas
+Dillimore
+Fort-Carson
