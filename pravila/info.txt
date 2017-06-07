@@ -1,4 +1,4 @@
-﻿{3399FF}MM Editor {EEEE00}v2.0
+﻿{3399FF}MM Editor {EEEE00}v2.1
 {3399FF}Разработчики скрипта: Mike Bayron
 
 {FFFFFF}Регистрация в скрипте: {FF8C00}/mmreg
