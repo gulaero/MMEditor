@@ -1,4 +1,4 @@
-﻿{3399FF}MM Editor {EEEE00}v2.3.2
+﻿{3399FF}MM Editor {EEEE00}v2.3.3
 {3399FF}Разработчик скрипта: Mike Bayron
 
 {FFFFFF}Информация о скрипте: {FF8C00}/mminfo
